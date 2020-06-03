@@ -1,4 +1,4 @@
-# Jour 1
+# Initiation HTML & CSS
 
 ## Les liens utiles
 Les diapositives du 1er cours sont disponibles à l'adresse suivante :
@@ -62,7 +62,7 @@ Exemple de rendu HTML avec CSS :
   <img src="images-readme/css-screenshot.png" alt="css-screenshot">
 </kbd>
 
-## Commencer une page web
+## Etape 1 - Commencer une page web
 
 ### Créer le dossier "code" contenant le projet
 * Créer un dossier "code".
@@ -88,10 +88,10 @@ Exemple de rendu HTML avec CSS :
 * Automatiquement le navigateur s'ouvre avec et présente la page web
 <img src="images-readme/init-f.png" alt="init-f">
 
-## Le fichier HTML
+## Etape 2 - Le fichier HTML
 <img src="images-readme/html.png" alt="html" width="100px">
 
-### Le squelette
+### A. Le squelette
 Le squelette de la page HTML comprend deux parties.
   * Une partie "HEAD" pour les informations nécéssaires mais non visibles (comme par exemple autoriser les carractères avec accent).
   * Une partie "BODY" qui contient tout le contenu visible de page.
@@ -128,7 +128,7 @@ Pour personnaliser le nom présent dans l'onglet du navigateur on doit spécifie
 </head>
 ```
 
-### Le titre principal
+### B. Le titre principal
 
 Pour écrire un titre dans la page il faut utiliser la balise "h1" (header 1).
 
@@ -442,3 +442,6 @@ Remarque : Il est possible de changer la taille de la vidéo grâce aux attribut
 <kbd>
   <img src="images-readme/css-screenshot.png" alt="css-screenshot">
 </kbd>
+
+
+## Ceci est un extrait du cours fait par Jonathan Serafini disponible sur https://github.com/Joz84/ten-hours-of-html-css
