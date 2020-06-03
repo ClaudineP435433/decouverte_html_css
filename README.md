@@ -1,16 +1,12 @@
 # Jour 1
 
-### <a href="https://github.com/Joz84/ten-hours-of-html-css" target="_blank">Retour au menu principal</a>
-
-## Le lien vers la <a href="https://joz84.github.io/day-a.github.io/" target="_blanck">démo</a>
-
-## Les autres liens utiles
+## Les liens utiles
 Les diapositives du 1er cours sont disponibles à l'adresse suivante :
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vTG02S_mq5pnkXvMSj36VNTqjMDypUAf-ql2YGz7HisuWGakCtsWRAQy0ajBHMnjC1S6y6WOJfqfuoa/pub?start=false&loop=false&delayms=60000" target="_blanck">
-Cours 1</a>
+<a href="https://docs.google.com/presentation/d/1wZkZJfjg1WmdninQoKHK_-Y1M2tzNwQkBV5hB9R7AaY/edit?usp=sharing" target="_blanck">
+Initiation HTML & CSS</a>
 
-La structure du code peut être retrouvée dans le fichier <a href="https://github.com/Joz84/day-a.github.io/blob/master/index.html" target="_blanck">index.html<a>.
-  
+La structure du code peut être retrouvée dans le fichier <a href="https://github.com/ClaudineP435433/decouverte_html_css/blob/master/index.html" target="_blanck">index.html<a>.
+
 Et l'ensemble des propriétés dans le fichier <a href="https://github.com/Joz84/day-a.github.io/blob/master/style.css" target="_blanck">style.css<a>
 
 ## Les outils
@@ -18,7 +14,7 @@ Et l'ensemble des propriétés dans le fichier <a href="https://github.com/Joz84
 
 ### Chrome
 <img src="images-readme/chrome-logo.png" alt="chrome-logo" width="100px">
-Chrome est un navigateur. C'est un logiciel qui permet de visualiser une page web. 
+Chrome est un navigateur. C'est un logiciel qui permet de visualiser une page web.
 
 Chaque logiciel attend un certain type de fichier avec une extension bien particulière. Par exemple :
 
@@ -39,13 +35,13 @@ C'est le seul logiciel qu'il est nécessaire d'installer pour suivre ce cours. V
 
 ### GitHub
 <img src="images-readme/github-logo.png" alt="github-logo" width="100px">
-GitHub est une plateforme web qui permet stocker et de partager son travail en ligne et héberger des sites statiques. Dans ce cours nous utiliserons cette plateforme à la fois pour partager les supports de cours et héberger le site web que nous allos produire. Pour pouvoir suivre ce cours il est donc nécessaire de se créer un compte. Voici le lien : 
+GitHub est une plateforme web qui permet stocker et de partager son travail en ligne et héberger des sites statiques. Dans ce cours nous utiliserons cette plateforme à la fois pour partager les supports de cours et héberger le site web que nous allos produire. Pour pouvoir suivre ce cours il est donc nécessaire de se créer un compte. Voici le lien :
 <a href="https://github.com/" target="_blanck">S'incrire sur GitHub</a>
 
 ## Présentation rapide des langages
 ### Le langage HTML
 <img src="images-readme/html.png" alt="html" width="100px">
-Le langage HTML (Hypertext Markup Language) a été créé par Tim Berners-Lee en 1989. 
+Le langage HTML (Hypertext Markup Language) a été créé par Tim Berners-Lee en 1989.
 
 C'est un Langage balisé qui permet d'écrire le contenu et structure d'un page web.
 
@@ -77,16 +73,16 @@ Exemple de rendu HTML avec CSS :
 * Créer un nouveau fichier en tapant clique droit sur le dossier "code" apparent sur la partie gauche dans Sublime Text puis cliquer sur "new file".
 <img src="images-readme/init-b.png" alt="init-b">
 
-* Sauvegarder le fichier en cliquant sur "File" puis "Save". 
+* Sauvegarder le fichier en cliquant sur "File" puis "Save".
 <img src="images-readme/init-c.png" alt="init-c">
 
-* Taper le nom du fichier "index.html" (attention, petite liste des erreurs classiques : "index.html" est sans "I" majuscule, sans "e" à la fin et l'extenstion est bien "html" et pas "htlm"). Assurer vous d'être bien dans le dossier "code" avant de sauvegarder.  
+* Taper le nom du fichier "index.html" (attention, petite liste des erreurs classiques : "index.html" est sans "I" majuscule, sans "e" à la fin et l'extenstion est bien "html" et pas "htlm"). Assurer vous d'être bien dans le dossier "code" avant de sauvegarder.
 <img src="images-readme/init-d.png" alt="init-d">
 
 ### Visualiser le résultat dans le navigateur
 * Ne pas oublier de sauvegarder tous les fichiers ouverts dans Sublime Text.
 * Ouvrir le dossier "code" en cliquant dessus.
-* Taper clique droit sur le fichier "index.html", puis "Ouvrir avec" et choisir le navigateur Chrome. 
+* Taper clique droit sur le fichier "index.html", puis "Ouvrir avec" et choisir le navigateur Chrome.
 <img src="images-readme/init-e.png" alt="init-e">
 
 * Automatiquement le navigateur s'ouvre avec et présente la page web
@@ -96,7 +92,7 @@ Exemple de rendu HTML avec CSS :
 <img src="images-readme/html.png" alt="html" width="100px">
 
 ### Le squelette
-Le squelette de la page HTML comprend deux parties. 
+Le squelette de la page HTML comprend deux parties.
   * Une partie "HEAD" pour les informations nécéssaires mais non visibles (comme par exemple autoriser les carractères avec accent).
   * Une partie "BODY" qui contient tout le contenu visible de page.
 Pour générer automatiquement le squelette taper ```html``` dans le fichier index.html puis la touche "tabulations".
@@ -196,7 +192,7 @@ Ils existent aussi des listes ordonnées. La balise associée est la balise "ol"
   <li>Etape 4 : Mettre au four 15 min à 180°C (thermostat 6)</li>
 </ol>
 ```
-### La structure d'une balise 
+### La structure d'une balise
 
 Une balise peut être constituée de 4 parties :
 * Le tag (ex: h1)
@@ -220,7 +216,7 @@ La balise pour lier deux pages est la balise "a".
 * Créer un dossier nommé "images".
 
 * Télécharger une image d'un site de photo libre de droits, de qualité et gratuite.
-Exemples: 
+Exemples:
   * https://flickr.com
   * https://www.pexels.com
 
@@ -230,7 +226,7 @@ Exemples:
 
 * Renommer l'image avec un nom simple, sans accent et sans espace (ex: "muffin.jpg").
 
-La balise pour insérer une image est la balise "img", elle contient au moins un attribut, l'attribut "src" ( pour "source"). La valeur de cet attribut doit être le chemin relatif de l'image. Dans notre exemple cela est "images/muffin.jpg". 
+La balise pour insérer une image est la balise "img", elle contient au moins un attribut, l'attribut "src" ( pour "source"). La valeur de cet attribut doit être le chemin relatif de l'image. Dans notre exemple cela est "images/muffin.jpg".
 
 ```html
 <img src="images/muffin.jpg" alt="muffin">
@@ -242,7 +238,7 @@ On peut egalement ajouter l'attribut "alt" ( pour "alternative"). la valeur de c
 
 ### Mise en page du texte
 
-Pour mettre une partie du texte en gras, on peut utiliser deux balises : 
+Pour mettre une partie du texte en gras, on peut utiliser deux balises :
 * La balise ```<b>```
 * La balise ```<strong>``` qui, en plus de mettre le texte en gras, permet de faire en sorte que se texte soit pris en compte pour améliorer le référencement.
 
@@ -255,7 +251,7 @@ Voic un exemple de paragraphe avec les différentes balises de mise en page :
 <br>
 Les muffins sont traditionnellement sucrés. On peut les retrouver au chocolat (avec des pépites de chocolat) ou nature, mais il existe de nombreuses autres variétés : fraise, banane, framboise, orange, vanille, myrtille ou bleuets, etc.
 <br>
-Il existe également des muffins salés, les English muffins ou muffins anglais, ressemblant à des sortes de petites crêpes très épaisses, faits à partir de pâte levée. Ces muffins salés sont quelquefois faits avec de la farine complète. Ils sont notamment employés comme base de la préparation des 
+Il existe également des muffins salés, les English muffins ou muffins anglais, ressemblant à des sortes de petites crêpes très épaisses, faits à partir de pâte levée. Ces muffins salés sont quelquefois faits avec de la farine complète. Ils sont notamment employés comme base de la préparation des
 <i>"œufs Bénédicte"</i>.
 </p>
 ```
@@ -277,10 +273,10 @@ Il existe également des muffins salés, les English muffins ou muffins anglais,
 * Créer un nouveau fichier en tapant clique droit sur le dossier "code" apparent sur la partie gauche dans Sublime Text puis cliquer sur "new file".
 <img src="images-readme/init-b.png" alt="init-b">
 
-* Sauvegarder le fichier en cliquant sur "File" puis "Save". 
+* Sauvegarder le fichier en cliquant sur "File" puis "Save".
 <img src="images-readme/init-c.png" alt="init-c">
 
-* Taper le nom du fichier "style.css" (attention, petite liste des erreurs classiques : "style.css" est sans "S" majuscule et l'extenstion est bien "css" et pas "ccs"). Assurer vous d'être bien dans le dossier "code" avant de sauvegarder.  
+* Taper le nom du fichier "style.css" (attention, petite liste des erreurs classiques : "style.css" est sans "S" majuscule et l'extenstion est bien "css" et pas "ccs"). Assurer vous d'être bien dans le dossier "code" avant de sauvegarder.
 <img src="images-readme/init-g.png" alt="init-g">
 
 ### Faire le lien entre le fichier HTML et le le fichier CSS
@@ -371,7 +367,7 @@ img {
 ```
 
 ### Aplliquer du style à un lien
-Le suffixe ```:hover``` permet d'appliquer du style au lien lorsque la souris survole le lien. 
+Le suffixe ```:hover``` permet d'appliquer du style au lien lorsque la souris survole le lien.
 
 ```css
 a:hover {
@@ -391,7 +387,7 @@ Google fonts (https://fonts.google.com/)
 <kbd>
   <img src="images-readme/google-fonts1.png" alt="google-fonts1">
 </kbd>
-  
+
 * Copier le code html de la forme ```<link href="https://fonts.googleapis.com/css?family=Pacifico&display=swap" rel="stylesheet">```.
 <kbd>
   <img src="images-readme/google-fonts2.png" alt="google-fonts2">
