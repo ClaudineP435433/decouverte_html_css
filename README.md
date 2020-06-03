@@ -7,7 +7,7 @@ Initiation HTML & CSS</a>
 
 La structure du code peut être retrouvée dans le fichier <a href="https://github.com/ClaudineP435433/decouverte_html_css/blob/master/index.html" target="_blanck">index.html<a>.
 
-Et l'ensemble des propriétés dans le fichier <a href="https://github.com/Joz84/day-a.github.io/blob/master/style.css" target="_blanck">style.css<a>
+Et l'ensemble des propriétés dans le fichier <a href="https://github.com/ClaudineP435433/decouverte_html_css/blob/master/style.css" target="_blanck">style.css<a>
 
 ## Les outils
 <img src="images-readme/tools-logos.png" alt="tools">
