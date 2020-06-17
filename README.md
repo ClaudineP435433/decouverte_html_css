@@ -213,23 +213,19 @@ La balise pour lier deux pages est la balise "a".
 ```
 ### Les images
 
-* Créer un dossier nommé "images".
-
-* Télécharger une image d'un site de photo libre de droits, de qualité et gratuite.
+* Trouver une image d'un site de photo libre de droits, de qualité et gratuite.
 Exemples:
   * https://flickr.com
   * https://www.pexels.com
 
 <img src="images-readme/pexels.png" alt="pexels">
 
-* Ranger la photo dans le dossier "images".
+* Faire Clic Droit puis "Copier l'adresse de l'image".
 
-* Renommer l'image avec un nom simple, sans accent et sans espace (ex: "muffin.jpg").
-
-La balise pour insérer une image est la balise "img", elle contient au moins un attribut, l'attribut "src" ( pour "source"). La valeur de cet attribut doit être le chemin relatif de l'image. Dans notre exemple cela est "images/muffin.jpg".
+La balise pour insérer une image est la balise "img", elle contient au moins un attribut, l'attribut "src" ( pour "source"). La valeur de cet attribut doit être le chemin relatif de l'image.
 
 ```html
-<img src="images/muffin.jpg" alt="muffin">
+<img src="https://images.pexels.com/photos/853004/pexels-photo-853004.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260" alt="muffin">
 ```
 On peut egalement ajouter l'attribut "alt" ( pour "alternative"). la valeur de cet attribut est un text décrivant au mieux l'image. Dans notre exemple "muffin". l'attribut "alt" a trois applications :
 * Le text s'affiche sur la page si le navigateur ne trouve pas l'image.
