@@ -1,9 +1,9 @@
 # Initiation HTML & CSS
 
 ## Les liens utiles
-Les diapositives du 1er cours sont disponibles à l'adresse suivante :
+<!-- Les diapositives du 1er cours sont disponibles à l'adresse suivante :
 <a href="https://docs.google.com/presentation/d/1wZkZJfjg1WmdninQoKHK_-Y1M2tzNwQkBV5hB9R7AaY/edit?usp=sharing" target="_blanck">
-Initiation HTML & CSS</a>
+Initiation HTML & CSS</a> -->
 
 La structure du code peut être retrouvée dans le fichier <a href="https://github.com/ClaudineP435433/decouverte_html_css/blob/master/index.html" target="_blanck">index.html<a>.
 
